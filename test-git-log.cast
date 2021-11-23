@@ -1,0 +1,11 @@
+{"version": 2, "width": 137, "height": 44, "timestamp": 1637664969, "env": {"SHELL": "/usr/local/bin/fish", "TERM": "xterm-256color"}}
+[0.000251, "o", "watch --color -tn1 \"git log --oneline\"\r\n"]
+[0.036955, "o", "\u001b]0;fish /Users/koren/Tresorit/code/bash/record.sh\u0007\u001b[30m\u001b(B\u001b[m"]
+[0.040629, "o", "Welcome to fish, the friendly interactive shell\r\n"]
+[0.048444, "o", "\u001b[?2004h\u001b]7;file://iMac.local/Users/koren/Tresorit/code/bash/record.sh\u0007"]
+[0.053552, "o", "\u001b]0;fish /Users/koren/Tresorit/code/bash/record.sh\u0007\u001b[30m\u001b(B\u001b[m"]
+[0.054539, "o", "\u001b[2m⏎\u001b(B\u001b[m                                                                                                                                        \r⏎ \r\u001b[Kkoren@iMac \u001b[32m~/T/c/b/record.sh\u001b[30m\u001b(B\u001b[m> \u001b[K"]
+[0.055968, "o", "watch --color -tn1 \"git log --oneline\"\r\n\u001b[30m\u001b(B\u001b[m\u001b[?2004l\u001b]0;watch /Users/koren/Tresorit/code/bash/record.sh\u0007\u001b[30m\u001b(B\u001b[m\r"]
+[0.080868, "o", "\u001b[?1049h\u001b[22;0;0t\u001b[1;44r\u001b(B\u001b[m\u001b[4l\u001b[?7h\u001b[39;49m\u001b[39;49m\u001b(B\u001b[m\u001b[H\u001b[2J0e247b0 Remove test recordings\r\u001b[2d8f02a37 Add git log to record\r\u001b[3de9ec5fb Update cast files\r\u001b[4d2316237 Test cast files\r\u001b[5d3ef75ae First pass at watch | asciinema\r\u001b[6d00e0705 Initial commit\u001b[44;137H\u001b(B\u001b[m"]
+[29.560149, "o", "\u001b[H\u001bM"]
+[29.560379, "o", "db415de Add color to watch\u001b[44;137H\u001b(B\u001b[m"]
