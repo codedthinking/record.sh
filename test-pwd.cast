@@ -1,0 +1,8 @@
+{"version": 2, "width": 137, "height": 44, "timestamp": 1637664370, "env": {"SHELL": "/usr/local/bin/fish", "TERM": "xterm-256color"}}
+[0.000235, "o", "watch -tn1 pwd\r\n"]
+[0.020832, "o", "\u001b]0;fish /Users/koren/Tresorit/code/bash/record.sh\u0007\u001b[30m\u001b(B\u001b[m"]
+[0.024874, "o", "Welcome to fish, the friendly interactive shell\r\n"]
+[0.029907, "o", "\u001b[?2004h\u001b]7;file://iMac.local/Users/koren/Tresorit/code/bash/record.sh\u0007"]
+[0.036124, "o", "\u001b]0;fish /Users/koren/Tresorit/code/bash/record.sh\u0007\u001b[30m\u001b(B\u001b[m\u001b[2m⏎\u001b(B\u001b[m                                                                                                                                        \r⏎ \r\u001b[Kkoren@iMac \u001b[32m~/T/c/b/record.sh\u001b[30m\u001b(B\u001b[m> \u001b[K"]
+[0.037635, "o", "watch -tn1 pwd\r\n\u001b[30m\u001b(B\u001b[m\u001b[?2004l\u001b]0;watch /Users/koren/Tresorit/code/bash/record.sh\u0007\u001b[30m\u001b(B\u001b[m\r"]
+[0.051764, "o", "\u001b[?1049h\u001b[22;0;0t\u001b[1;44r\u001b(B\u001b[m\u001b[4l\u001b[?7h\u001b[H\u001b[2J/Users/koren/Tresorit/code/bash/record.sh\u001b[44;137H"]

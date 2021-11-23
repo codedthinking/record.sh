@@ -1,0 +1,10 @@
+{"version": 2, "width": 137, "height": 44, "timestamp": 1637664370, "env": {"SHELL": "/usr/local/bin/fish", "TERM": "xterm-256color"}}
+[0.000233, "o", "watch -tn1 git status\r\n"]
+[0.021772, "o", "\u001b]0;fish /Users/koren/Tresorit/code/bash/record.sh\u0007\u001b[30m\u001b(B\u001b[m"]
+[0.025624, "o", "Welcome to fish, the friendly interactive shell\r\n"]
+[0.030796, "o", "\u001b[?2004h"]
+[0.03087, "o", "\u001b]7;file://iMac.local/Users/koren/Tresorit/code/bash/record.sh\u0007"]
+[0.036669, "o", "\u001b]0;fish /Users/koren/Tresorit/code/bash/record.sh\u0007\u001b[30m\u001b(B\u001b[m\u001b[2m⏎\u001b(B\u001b[m                                                                                                                                        \r⏎ \r\u001b[Kkoren@iMac \u001b[32m~/T/c/b/record.sh\u001b[30m\u001b(B\u001b[m> \u001b[K"]
+[0.037868, "o", "watch -tn1 git status\r\n\u001b[30m\u001b(B\u001b[m\u001b[?2004l\u001b]0;watch /Users/koren/Tresorit/code/bash/record.sh\u0007\u001b[30m\u001b(B\u001b[m\r"]
+[0.061211, "o", "\u001b[?1049h\u001b[22;0;0t\u001b[1;44r\u001b(B\u001b[m\u001b[4l\u001b[?7h\u001b[H\u001b[2JOn branch main\r\u001b[2dYour branch is ahead of 'origin/main' by 1 commit.\u001b[3;3H(use \"git push\" to publish your local commits)\r\u001b[5dUntracked files:\u001b[6;3H(use \"git add <file>...\" to include in what will be committed)\u001b[7;9Htest-git.cast\u001b[8;9Htest-pwd.cast\u001b[9;9Htest-tree.cast\r\u001b[11d"]
+[0.061286, "o", "nothing added to commit but untracked files present (use \"git add\" to track)\u001b[44;137H"]
