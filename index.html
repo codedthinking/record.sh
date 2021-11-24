@@ -4,10 +4,23 @@
 </head>
 
 <body>
-    <div id="demo"></div>
+    <div id="terminal" width="30%"></div>
+    <div id="tree" width="30%"></div>
+    <div id="git-status" width="30%"></div>
     <script src="assets/js/asciinema-player.min.js"></script>
     <script>
-        AsciinemaPlayer.create('data/channel-test-terminal.cast', document.getElementById('demo'));
+        AsciinemaPlayer.create('data/channel-test-terminal.cast', document.getElementById('terminal'), {
+                autoPlay: true,
+                preload: true
+            });
+        AsciinemaPlayer.create('data/channel-test-tree.cast', document.getElementById('tree'), {
+                autoPlay: true,
+                preload: true
+            });
+        AsciinemaPlayer.create('data/channel-test-git-status.cast', document.getElementById('git-status'), {
+                autoPlay: true,
+                preload: true
+            });
     </script>
 </body>
 
