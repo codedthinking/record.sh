@@ -1,12 +1,28 @@
 <html>
 <head>
     <link rel="stylesheet" type="text/css" href="assets/css/asciinema-player.css" />
+    <style>
+        .row {
+            display: flex;
+        }
+        .column {
+            flex: 50%;
+        }
+    </style>
 </head>
 
 <body>
-    <div id="terminal" width="30%"></div>
-    <div id="tree" width="30%"></div>
-    <div id="git-status" width="30%"></div>
+    <div class="row">
+        <div class="column">
+            <div id="terminal"></div>
+            <div id="tree"></div>
+        </div>
+        <div class="column">
+            <div id="git-status"></div>
+            <div id="git-log"></div>
+        </div>
+    </div>
+
     <script src="assets/js/asciinema-player.min.js"></script>
     <script>
         AsciinemaPlayer.create('data/channel-test-terminal.cast', document.getElementById('terminal'), {
@@ -18,6 +34,10 @@
                 preload: true
             });
         AsciinemaPlayer.create('data/channel-test-git-status.cast', document.getElementById('git-status'), {
+                autoPlay: true,
+                preload: true
+            });
+        AsciinemaPlayer.create('data/channel-test-git-log.cast', document.getElementById('git-log'), {
                 autoPlay: true,
                 preload: true
             });
