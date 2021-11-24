@@ -1,0 +1,8 @@
+{"version": 2, "width": 80, "height": 24, "timestamp": 1637746473, "env": {"SHELL": "/usr/local/bin/fish", "TERM": "xterm-256color"}}
+[0.03577, "o", "\u001b[?1049h\u001b[22;0;0t\u001b[1;24r\u001b(B\u001b[m\u001b[4l\u001b[?7h\u001b[39;49m\u001b[39;49m\u001b(B\u001b[m\u001b[H\u001b[2Jfatal: not a git repository (or any of the parent directories): .git\u001b[24;80H\u001b(B\u001b[m"]
+[4.091244, "o", "\u001b[HOn branch master\u001b(B\u001b[m\u001b[K\r\u001b[3dNo commits yet\r\u001b[5dUntracked files:\u001b[6;3H(use \"git add <file>...\" to include in what will be committed)\u001b[7;9Hchannel-test-git-log.cast\u001b[8;9Hchannel-test-git-status.cast\u001b[9;9Hchannel-test-pwd.cast\u001b[10;9Hchannel-test-terminal.cast\u001b[11;9Hchannel-test-tree.cast\r\u001b[13dnothing added to commit but untracked files present (use \"git add\" to track)\u001b[24;80H\u001b(B\u001b[m"]
+[17.288221, "o", "\r\u001b[12d\u001b[L\u001b[12;9Hdata/\u001b[24;80H\u001b(B\u001b[m"]
+[24.391862, "o", "\u001b[4;15r\u001b[4;1H\u001b[4T\u001b[1;24r\u001b[5;1HChanges to be committed:\u001b[6;3H(use \"git rm --cached <file>...\" to unstage)\u001b[7;9H"]
+[24.392082, "o", "new file:   data/employment.csv\u001b[24;80H\u001b(B\u001b[m"]
+[31.505452, "o", "\r\u001b[2d\u001b[7M\u001b[10d"]
+[31.505527, "o", "nothing added to commit but untracked files present (use \"git add\" to track)\u001b[24;80H\u001b(B\u001b[m"]
